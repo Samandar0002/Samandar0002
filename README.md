@@ -1,5 +1,5 @@
 
-![My Cool GIF]([https://example.com/my-cool-gif.gif](https://cybermatrixsolutions.com/_next/image?url=%2Fimages%2Fweb-dev-services%2Fweb-developer.gif&w=750&q=75))
+![Front End Developer Beau Carnes GIF](https://tenor.com/view/front-end-developer-beau-carnes-freecodecamp-programmer-coding-gif-26544581)
 - 👋 Hi, I’m Samandar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning FrontEnd
