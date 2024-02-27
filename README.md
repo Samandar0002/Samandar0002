@@ -1,5 +1,5 @@
 
-![Front End Developer Beau Carnes GIF](https://tenor.com/view/front-end-developer-beau-carnes-freecodecamp-programmer-coding-gif-26544581)
+![frontdev](https://github.com/Samandar0002/Samandar0002/assets/127169451/013b80d4-8bfa-4ece-943b-f783df145e05)
 - 👋 Hi, I’m Samandar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning FrontEnd
