@@ -1,5 +1,4 @@
 
-![front gif](https://github.com/Samandar0002/Samandar0002/assets/127169451/aee68bc0-1cda-469d-943c-67d22e24529d)
 ![frontdev](https://github.com/Samandar0002/Samandar0002/assets/127169451/013b80d4-8bfa-4ece-943b-f783df145e05) 
 - 👋 Hi, I’m Samandar
 - 👀 I’m interested in programming
